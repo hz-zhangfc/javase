@@ -5,5 +5,7 @@ java基础再次学习，并且开始se的源码之旅
 [参考资料1](http://www.infoq.com/cn/articles/java-memory-model-1/)<br>
 [参考资料2](http://wiki.jikexueyuan.com/project/java-memory-model/)
 
-##[HashMap](http://blog.csdn.net/StromMaybin/article/details/72821978)
+## [HashMap](http://blog.csdn.net/StromMaybin/article/details/72821978)
+
+## [泛型](http://blog.csdn.net/qq_37810594/article/details/72822736)
 
